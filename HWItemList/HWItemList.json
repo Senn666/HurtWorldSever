@@ -1,0 +1,2478 @@
+{
+  "Protocol version": 176,
+  "Reset on load (Enable it if you are using any Steam Workshop mods)": false,
+  "List of items": [
+    {
+      "itemId": 1,
+      "itemName": "Succulent Plant Seed",
+      "itemFullNameKey": "Items/Raw Materials/Seeds (Succulent)",
+      "itemGuid": "00e964a9e59bcf048bfca2c3c4d8831f"
+    },
+    {
+      "itemId": 2,
+      "itemName": "Mac10 RedDot Dappler",
+      "itemFullNameKey": "Items/Weapon Attachments/Dappler Red Dot",
+      "itemGuid": "0105eaf95a5483a4eb221831dcfc428e"
+    },
+    {
+      "itemId": 3,
+      "itemName": "Insulated Gloves",
+      "itemFullNameKey": "Items/Gear/Hands/Gloves (Insulated)",
+      "itemGuid": "021f9f0b416ffe64499e271a64cf052e"
+    },
+    {
+      "itemId": 4,
+      "itemName": "AWM Quash Silencer",
+      "itemFullNameKey": "Items/Weapon Attachments/Quash Silencer",
+      "itemGuid": "027df2a17446c34458fe2a3e15fefec1"
+    },
+    {
+      "itemId": 5,
+      "itemName": "Stone Brick",
+      "itemFullNameKey": "Items/Processed Materials/Stone Brick",
+      "itemGuid": "02e9b16ceae4d0249869051e44ad4a1a"
+    },
+    {
+      "itemId": 6,
+      "itemName": "MozzyChassisInvisible",
+      "itemFullNameKey": "MozzyChassisInvisible",
+      "itemGuid": "031a177a0093a3a4b9cbf498dcdd7c7f"
+    },
+    {
+      "itemId": 7,
+      "itemName": "FakeAirdropBeacon",
+      "itemFullNameKey": "Items/Beacons/Fake Airdrop",
+      "itemGuid": "0463eef5b9e42eb4ea7548f69b6fac21"
+    },
+    {
+      "itemId": 8,
+      "itemName": "Mozzy SmellsFishy Mask",
+      "itemFullNameKey": "Items/Paint Masks/Mozzy SmellsFishy Mask",
+      "itemGuid": "04858c6c7d9154b43b999835175cd4d1"
+    },
+    {
+      "itemId": 9,
+      "itemName": "Roach Chaser Roof Scoop",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Chaser Roof Scoop",
+      "itemGuid": "052b5144dc2ae174a846437852c1fa79"
+    },
+    {
+      "itemId": 10,
+      "itemName": "Roach Triple Door Panel Right",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Triple Door Right Side",
+      "itemGuid": "0593724c7d4348042bdb6153ee35bc3d"
+    },
+    {
+      "itemId": 11,
+      "itemName": "Mangler Wheel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Mangler Wheel",
+      "itemGuid": "0632418d5fd68cc458fdb48354605103"
+    },
+    {
+      "itemId": 12,
+      "itemName": "Stone Spear",
+      "itemFullNameKey": "Items/Weapons/Spear (Stone)",
+      "itemGuid": "06bc504c1bba65b4fb218e9b9af2f1f5"
+    },
+    {
+      "itemId": 13,
+      "itemName": "Light Combat Vest",
+      "itemFullNameKey": "Items/Gear/Chest/Light Combat Vest",
+      "itemGuid": "07a1ee3bc91b19f42a304c15cb308e0f"
+    },
+    {
+      "itemId": 14,
+      "itemName": "Gear Minor Toxin Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Minor Toxin Protection Fragment",
+      "itemGuid": "07e2a8151b47c9742a3a1db42f844ed4"
+    },
+    {
+      "itemId": 15,
+      "itemName": "Beretta Silencer Quash",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Silencer Quash",
+      "itemGuid": "093bdc049d2070043b7da26ec390d6b9"
+    },
+    {
+      "itemId": 16,
+      "itemName": "Beretta Brake Rein",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Brake Rein",
+      "itemGuid": "0ab27b0f6adf81849b61a24faa131c62"
+    },
+    {
+      "itemId": 17,
+      "itemName": "Mozzy Tail Rotor",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Tail Rotor",
+      "itemGuid": "0abf12c28a20ada488c9b45631f43181"
+    },
+    {
+      "itemId": 18,
+      "itemName": "Camping Pack",
+      "itemFullNameKey": "Items/Gear/Backpacks/Camping",
+      "itemGuid": "0b6fc40f31ce4cc409631b74d1d59573"
+    },
+    {
+      "itemId": 19,
+      "itemName": "AR Eureka Scope",
+      "itemFullNameKey": "Items/Weapon Attachments/Eureka Scope",
+      "itemGuid": "0bb10d649b94af440a8a42c00f76201f"
+    },
+    {
+      "itemId": 20,
+      "itemName": "Maskless",
+      "itemFullNameKey": "Items/Gear/Head/Maskless",
+      "itemGuid": "0bc7ff2be8a532c4abc3d42d0829357e"
+    },
+    {
+      "itemId": 21,
+      "itemName": "Goreng Mask",
+      "itemFullNameKey": "Items/Paint Masks/Goreng Mask",
+      "itemGuid": "0d4f8a37965ce524d96124275cd1eb72"
+    },
+    {
+      "itemId": 22,
+      "itemName": "Kanga Paddlin Wheel Front",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Front Wheel (Paddlin)",
+      "itemGuid": "0d57b309fe5e14c48bd0cbaa4b692914"
+    },
+    {
+      "itemId": 23,
+      "itemName": "ClanCreator",
+      "itemFullNameKey": "Items/Clan Creator",
+      "itemGuid": "0d6c2ecf626edde46b972622ed812153"
+    },
+    {
+      "itemId": 24,
+      "itemName": "Storage Box",
+      "itemFullNameKey": "Machines/Storage Box",
+      "itemGuid": "0e0251faa9ce4f644870a05c12497c56"
+    },
+    {
+      "itemId": 25,
+      "itemName": "Owrong Seed",
+      "itemFullNameKey": "Items/Raw Materials/Seeds (Owrong)",
+      "itemGuid": "0ffae53e9028e4641851124c6b4e6a2c"
+    },
+    {
+      "itemId": 26,
+      "itemName": "Roach Chaser Hood",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Chaser Hood",
+      "itemGuid": "119c7d9edd0996948a235c8f63e0c638"
+    },
+    {
+      "itemId": 27,
+      "itemName": "Beretta Silencer Shush",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Silencer Shush",
+      "itemGuid": "1227a963278b2b74a807a89dcc9a1db3"
+    },
+    {
+      "itemId": 28,
+      "itemName": "Kanga Eva Mask",
+      "itemFullNameKey": "Items/Paint Masks/Kanga Eva Mask",
+      "itemGuid": "12459c4745c2a4d4ca75db4a91e6d7ce"
+    },
+    {
+      "itemId": 29,
+      "itemName": "Gear Minor MoveSpeed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Minor MoveSpeed Fragment",
+      "itemGuid": "12bd55fde2ad10249bf3b6931a42d748"
+    },
+    {
+      "itemId": 30,
+      "itemName": "Mac10 RedDot Vista",
+      "itemFullNameKey": "Items/Weapon Attachments/Vista Red Dot",
+      "itemGuid": "1357aed5547a0314987f286d39be7d5e"
+    },
+    {
+      "itemId": 31,
+      "itemName": "Mac10 Magazine Warehouse",
+      "itemFullNameKey": "Items/Weapon Attachments/Warehouse Magazine",
+      "itemGuid": "13abeb9d1c58d8c4ea820bb56d5998d8"
+    },
+    {
+      "itemId": 32,
+      "itemName": "AWM RedDot Dappler",
+      "itemFullNameKey": "Items/Weapon Attachments/Dappler Red Dot",
+      "itemGuid": "13d2b5f02da0bd742b64ea4fcf458eea"
+    },
+    {
+      "itemId": 33,
+      "itemName": "Melee Minor AttackSpeed Fragment",
+      "itemFullNameKey": "Items/Fragments/Melee Minor AttackSpeed Fragment",
+      "itemGuid": "14c5bb091aa222347b5a227f82b13814"
+    },
+    {
+      "itemId": 34,
+      "itemName": "Shogun Face Mask",
+      "itemFullNameKey": "Items/Masks/Shogun",
+      "itemGuid": "14e37c922c158904cbe2d0c50ff35e93"
+    },
+    {
+      "itemId": 35,
+      "itemName": "Iron Pickaxe",
+      "itemFullNameKey": "Items/Tools/Pickaxe (Iron)",
+      "itemGuid": "1561135c3a6fbe643b33b11314fdf608"
+    },
+    {
+      "itemId": 36,
+      "itemName": "Fragment Case T3",
+      "itemFullNameKey": "Items/Fragments/Fragment Case +3",
+      "itemGuid": "1586d29754eeb864e9fa7d1968db4434"
+    },
+    {
+      "itemId": 37,
+      "itemName": "FR18 Jacket Silencer",
+      "itemFullNameKey": "Items/Weapon Attachments/Jacket Silencer",
+      "itemGuid": "16749845bb1820f448e482772cb9d001"
+    },
+    {
+      "itemId": 38,
+      "itemName": "Veil Mask",
+      "itemFullNameKey": "Items/Paint Masks/Veil Mask",
+      "itemGuid": "1694723fa561e7241a423bc9aa07f587"
+    },
+    {
+      "itemId": 39,
+      "itemName": "Hoodie",
+      "itemFullNameKey": "Items/Gear/Chest/Hoodie",
+      "itemGuid": "16c0f47caec706f40987add903297e8d"
+    },
+    {
+      "itemId": 40,
+      "itemName": "Scope Minor Sway Reducer Fragment",
+      "itemFullNameKey": "Items/Fragments/Scope Minor Sway Reducer Fragment",
+      "itemGuid": "17539c09e76296c40a912117ffb707dc"
+    },
+    {
+      "itemId": 41,
+      "itemName": "OwnershipStake",
+      "itemFullNameKey": "Machines/Ownership Stake",
+      "itemGuid": "17fc3e4760a6481418f4cf8ffbbcbdc8"
+    },
+    {
+      "itemId": 42,
+      "itemName": "Strong Animal Pelt",
+      "itemFullNameKey": "Items/Raw Materials/Pelt (Strong)",
+      "itemGuid": "183416a861de17f4f86f7bf3747099b7"
+    },
+    {
+      "itemId": 43,
+      "itemName": "Roach Triple Door Panel Left",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Triple Door Left Side",
+      "itemGuid": "185459baa5b1877428d7611c902ac6b6"
+    },
+    {
+      "itemId": 44,
+      "itemName": "Fragment Case T1",
+      "itemFullNameKey": "Items/Fragments/Fragment Case +1",
+      "itemGuid": "1882626c2aec368428c5959e065597e9"
+    },
+    {
+      "itemId": 45,
+      "itemName": "Voodoo Face Mask",
+      "itemFullNameKey": "Items/Masks/Voodoo",
+      "itemGuid": "18fd2356954c13c43919e6f6096d2d02"
+    },
+    {
+      "itemId": 46,
+      "itemName": "Sign",
+      "itemFullNameKey": "Machines/Sign",
+      "itemGuid": "19c7caa26fe7b8b4eaa936198a57261e"
+    },
+    {
+      "itemId": 47,
+      "itemName": "Roach 1986 Mask",
+      "itemFullNameKey": "Items/Paint Masks/Roach 1986 Mask",
+      "itemGuid": "1a65863521694654895ad0c63a5c01ad"
+    },
+    {
+      "itemId": 48,
+      "itemName": "Recycler",
+      "itemFullNameKey": "Machines/Recycler",
+      "itemGuid": "1c21fd9f52f085442aa5d422f2a4c7ed"
+    },
+    {
+      "itemId": 49,
+      "itemName": "Chemsuit Mask",
+      "itemFullNameKey": "Items/Masks/Chemsuit Mask",
+      "itemGuid": "1c9419bdec3492b47825063328c459ca"
+    },
+    {
+      "itemId": 50,
+      "itemName": "FragmentDust",
+      "itemFullNameKey": "Items/Fragments/Fragment Dust",
+      "itemGuid": "1cb6ae45adba951438afdf428775a199"
+    },
+    {
+      "itemId": 51,
+      "itemName": "Jump Medallion 2",
+      "itemFullNameKey": "Items/Rare Materials/Jump Medallion 2",
+      "itemGuid": "1d6d733072a0e5b4ea3cb50eb2b75fa5"
+    },
+    {
+      "itemId": 52,
+      "itemName": "Kanga Knobbler Wheel Front",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Front Wheel (Knobbler)",
+      "itemGuid": "1ddb4cba0e0a62249b9d46fed13fbd8c"
+    },
+    {
+      "itemId": 53,
+      "itemName": "FR18 Probos Tip",
+      "itemFullNameKey": "Items/Weapon Attachments/Probos Tip",
+      "itemGuid": "1ecea32a782b2ca4a90d8e734111c1b3"
+    },
+    {
+      "itemId": 54,
+      "itemName": "Roach Sharkweek Side Panel Left",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Sharkweek Panel (Left)",
+      "itemGuid": "1edee8ddcbc59f249872179394d8d82e"
+    },
+    {
+      "itemId": 55,
+      "itemName": "Shigi Flame Face Mask",
+      "itemFullNameKey": "Items/Masks/Shigi Flame",
+      "itemGuid": "1fbc26257988d8f40a86169a0f29493f"
+    },
+    {
+      "itemId": 56,
+      "itemName": "RedDesertTerritoryBlock",
+      "itemFullNameKey": "Items/HeavyBlocks/Fire Block",
+      "itemGuid": "205a8ec8f4633c0489e3ade44a733898"
+    },
+    {
+      "itemId": 57,
+      "itemName": "Section8 Mask",
+      "itemFullNameKey": "Items/Paint Masks/Section 8 Mask",
+      "itemGuid": "21f88f1803ed9f842be418e5260227c3"
+    },
+    {
+      "itemId": 58,
+      "itemName": "AR Ironsight Stack",
+      "itemFullNameKey": "Items/Weapon Attachments/Stack Ironsight",
+      "itemGuid": "234d30aae06c6e44799619f89dcbb3a4"
+    },
+    {
+      "itemId": 59,
+      "itemName": "Roach Graffiti Mask",
+      "itemFullNameKey": "Items/Paint Masks/Roach Graffiti Mask",
+      "itemGuid": "240fe65a4d18f9b42a31d1b41dbe41db"
+    },
+    {
+      "itemId": 60,
+      "itemName": "Bow Scatter Shot Fragment",
+      "itemFullNameKey": "Items/Fragments/Bow Scatter Shot Fragment",
+      "itemGuid": "245287238842e54498b0bbc4d1407266"
+    },
+    {
+      "itemId": 61,
+      "itemName": "Goat Side Stripes Mask",
+      "itemFullNameKey": "Items/Paint Masks/Goat Side Stripes Mask",
+      "itemGuid": "24779b22b291e8d4e8e41f2ed30af848"
+    },
+    {
+      "itemId": 62,
+      "itemName": "Beretta M9",
+      "itemFullNameKey": "Items/Weapons/Beretta M9",
+      "itemGuid": "25322ba987c79fb41b71d75b31a04d67"
+    },
+    {
+      "itemId": 63,
+      "itemName": "Gear Major MoveSpeed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Major MoveSpeed Fragment",
+      "itemGuid": "25c790322eda3984cb0ad019bff3903c"
+    },
+    {
+      "itemId": 64,
+      "itemName": "Roach Sharkweek Rear Panel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Sharkweek Panel (Rear)",
+      "itemGuid": "2628068e952222a4296f38aee42deff9"
+    },
+    {
+      "itemId": 65,
+      "itemName": "Mondinium Pickaxe",
+      "itemFullNameKey": "Items/Tools/Pickaxe (Mondinium)",
+      "itemGuid": "266be32290a9b514da15274f3776afdb"
+    },
+    {
+      "itemId": 66,
+      "itemName": "Kanga Raider Rearpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Raider Panel (Rear)",
+      "itemGuid": "271c63bae866fa34184e5a03c4db116f"
+    },
+    {
+      "itemId": 67,
+      "itemName": "Mozzy Pirahna RoofPanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Pirahna Panel (Roof)",
+      "itemGuid": "279566be0084f3b4aad440ce999cceb6"
+    },
+    {
+      "itemId": 68,
+      "itemName": "TownEventWinHardcase",
+      "itemFullNameKey": "Town Event Win Hardcase",
+      "itemGuid": "279ba57e6dd277642a96b3f426761095"
+    },
+    {
+      "itemId": 69,
+      "itemName": "Kanga Fire Ant Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Fire Ant Panel (Front)",
+      "itemGuid": "283e498f90848c4468b0aca8d555cb2e"
+    },
+    {
+      "itemId": 70,
+      "itemName": "Warm Jeans",
+      "itemFullNameKey": "Items/Gear/Pants/Warm Jeans",
+      "itemGuid": "292f1c6a3db21994db765faa7db7ff09"
+    },
+    {
+      "itemId": 71,
+      "itemName": "Shockblock Mask",
+      "itemFullNameKey": "Items/Paint Masks/Shockblock Mask",
+      "itemGuid": "2930730447580db4b9784bef770b9c19"
+    },
+    {
+      "itemId": 72,
+      "itemName": "Mozzy Pirahna LeftPanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Pirahna Panel (Left)",
+      "itemGuid": "2a220ed7acf39584bb97e5e8fd9fc604"
+    },
+    {
+      "itemId": 73,
+      "itemName": "Mac10 Tip Cue",
+      "itemFullNameKey": "Items/Weapon Attachments/Cue Tip",
+      "itemGuid": "2aaaaffe199f5c2478a4ef066331b871"
+    },
+    {
+      "itemId": 74,
+      "itemName": "Bor Mask",
+      "itemFullNameKey": "Items/Masks/Bor",
+      "itemGuid": "2af72d84f0d86b94ba76a008fc24e495"
+    },
+    {
+      "itemId": 75,
+      "itemName": "Bunkum Backpack",
+      "itemFullNameKey": "Items/Gear/Backpacks/Bunkum",
+      "itemGuid": "2af73109cbc636b4387a991df150901c"
+    },
+    {
+      "itemId": 76,
+      "itemName": "Animal Tendon",
+      "itemFullNameKey": "Items/Raw Materials/Animal Tendon",
+      "itemGuid": "2c4229fcc5627d248b71a2cd3b0a5d3a"
+    },
+    {
+      "itemId": 77,
+      "itemName": "AR Barrel Hustler",
+      "itemFullNameKey": "Items/Weapon Attachments/Hustler Barrel",
+      "itemGuid": "2c47275adb9c6c14aa5fbbf0eee8cc0a"
+    },
+    {
+      "itemId": 78,
+      "itemName": "Fridge",
+      "itemFullNameKey": "Machines/Fridge",
+      "itemGuid": "2c86aecac8f33f24cba0c4e891615754"
+    },
+    {
+      "itemId": 79,
+      "itemName": "TestBackpack",
+      "itemFullNameKey": "TestBackpack",
+      "itemGuid": "2cac518646183d34d9dabd606e50a823"
+    },
+    {
+      "itemId": 80,
+      "itemName": "Rebel Bandana",
+      "itemFullNameKey": "Items/Masks/Rebel Bandana",
+      "itemGuid": "2ce2cf19cf88f5d468355c100210150a"
+    },
+    {
+      "itemId": 81,
+      "itemName": "Roach Skull Bumper",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Skull Bumper",
+      "itemGuid": "2dcea5d6d3d8cad4ebe346c11c791ccb"
+    },
+    {
+      "itemId": 82,
+      "itemName": "Kanga Earwig Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Earwig Panel (Front)",
+      "itemGuid": "2e02a9b3f0ca96041a2b8aca0e608f25"
+    },
+    {
+      "itemId": 83,
+      "itemName": "Owrong",
+      "itemFullNameKey": "Items/Consumables/Owrong",
+      "itemGuid": "2e718220fde28dd4d8ec5ef1c101a9e2"
+    },
+    {
+      "itemId": 84,
+      "itemName": "Torch",
+      "itemFullNameKey": "Machines/Torch",
+      "itemGuid": "2f9829edb702eda42a1c9d389b9661c6"
+    },
+    {
+      "itemId": 85,
+      "itemName": "Vehicle Engine Mega Fuel Efficiency Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Mega Fuel Efficiency Fragment",
+      "itemGuid": "303935e799bc3f449bda04ec61c7cea2"
+    },
+    {
+      "itemId": 86,
+      "itemName": "AR Mag Dock",
+      "itemFullNameKey": "Items/Weapon Attachments/Dock Magazine",
+      "itemGuid": "30539b76494444546ad0ea008185af72"
+    },
+    {
+      "itemId": 87,
+      "itemName": "Kanga Rocketto Mask",
+      "itemFullNameKey": "Items/Paint Masks/Kanga Rocketto Mask",
+      "itemGuid": "3068c72e9f902c34fbb07a486845595b"
+    },
+    {
+      "itemId": 88,
+      "itemName": "FirePit",
+      "itemFullNameKey": "Machines/Fire Pit",
+      "itemGuid": "311511e90b7bbf44c9fd1e8c6730bdf7"
+    },
+    {
+      "itemId": 89,
+      "itemName": "Tokar Poison Face Mask",
+      "itemFullNameKey": "Items/Masks/Tokar Poison",
+      "itemGuid": "31478ccfe3b86f74f87c27c766b9020e"
+    },
+    {
+      "itemId": 90,
+      "itemName": "Hiking Boots",
+      "itemFullNameKey": "Items/Gear/Shoes/Hiking Boots",
+      "itemGuid": "31c2153daa3673d49b66b232979bb5f1"
+    },
+    {
+      "itemId": 91,
+      "itemName": "Kanga Saw Wheel Rear",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Rear Wheel (Saw)",
+      "itemGuid": "322d1430b1e0c6d4cb5eda3e5d594ce0"
+    },
+    {
+      "itemId": 92,
+      "itemName": "Goat Judge Backpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Judge Panel (Rear)",
+      "itemGuid": "32b492ff9b560754ca6f3c60ca398606"
+    },
+    {
+      "itemId": 93,
+      "itemName": "Armor Panel",
+      "itemFullNameKey": "Items/Processed Materials/Armor Panel",
+      "itemGuid": "336aea1fe75b1d04db4b40f284e76952"
+    },
+    {
+      "itemId": 94,
+      "itemName": "SlugChassis",
+      "itemFullNameKey": "Items/Vehicle Attachments/Slug/Chassis",
+      "itemGuid": "336b473d5c78968449300c2d134406c6"
+    },
+    {
+      "itemId": 95,
+      "itemName": "Kanga ZebraTech Mask",
+      "itemFullNameKey": "Items/Paint Masks/Kanga ZebraTech Mask",
+      "itemGuid": "34685f299bff149409c575a53e16a325"
+    },
+    {
+      "itemId": 96,
+      "itemName": "Vehicle Engine Major Fuel Efficiency Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Major Fuel Efficiency Fragment",
+      "itemGuid": "34698f9d5d08ba94eb9b730f881e403e"
+    },
+    {
+      "itemId": 97,
+      "itemName": "MachineWrench",
+      "itemFullNameKey": "Items/Tools/Wrench (Machine)",
+      "itemGuid": "350004e2242f61a48948fa27cb2b3be6"
+    },
+    {
+      "itemId": 98,
+      "itemName": "Goat Racer Backpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Racer Panel (Rear)",
+      "itemGuid": "352abc9d2a4e4f84e8f7ab152ca0dbcb"
+    },
+    {
+      "itemId": 99,
+      "itemName": "Goat Judge Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Judge Panel (Front)",
+      "itemGuid": "35451254716913449840f5706f4706ce"
+    },
+    {
+      "itemId": 100,
+      "itemName": "9mm Bullet",
+      "itemFullNameKey": "Items/Ammo/9mm",
+      "itemGuid": "35a62c0447ace26419c486d9a1b76e8d"
+    },
+    {
+      "itemId": 101,
+      "itemName": "AR15",
+      "itemFullNameKey": "Items/Weapons/AR15",
+      "itemGuid": "35d3de88880a7554b91a553043babcd0"
+    },
+    {
+      "itemId": 102,
+      "itemName": "Code Mask",
+      "itemFullNameKey": "Items/Paint Masks/Code Mask",
+      "itemGuid": "3611e9ef6bb05ab4a97c13041b97b145"
+    },
+    {
+      "itemId": 103,
+      "itemName": "Insulated Snood",
+      "itemFullNameKey": "Items/Masks/Insulated Snood",
+      "itemGuid": "361bc705e9c597c47a991d6d8c52ab9d"
+    },
+    {
+      "itemId": 104,
+      "itemName": "SmallJump",
+      "itemFullNameKey": "Small Jump",
+      "itemGuid": "365d79b51e3b337478708cf45e3dcfdf"
+    },
+    {
+      "itemId": 105,
+      "itemName": "Gear Mega Reload Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Mega Reload Speed Fragment",
+      "itemGuid": "36a9040260ec06746a7cd62bf91f6841"
+    },
+    {
+      "itemId": 106,
+      "itemName": "Tether Bow",
+      "itemFullNameKey": "Items/Weapons/Tether Bow",
+      "itemGuid": "384da18845e09594caad02defe7e3b4c"
+    },
+    {
+      "itemId": 107,
+      "itemName": "Rebel Pants",
+      "itemFullNameKey": "Items/Gear/Pants/Rebel Pants",
+      "itemGuid": "386130d8db502f4409f47ffa0f652d92"
+    },
+    {
+      "itemId": 108,
+      "itemName": "Stone Pickaxe",
+      "itemFullNameKey": "Items/Tools/Pickaxe (Stone)",
+      "itemGuid": "390db6099f3b5e441a4bcaaf4dd4beea"
+    },
+    {
+      "itemId": 109,
+      "itemName": "Thermal Snood",
+      "itemFullNameKey": "Items/Masks/Thermal Snood",
+      "itemGuid": "3a86951cec6f27c448f85dcf766def0d"
+    },
+    {
+      "itemId": 110,
+      "itemName": "Melee Add Mega ChopPower Fragment",
+      "itemFullNameKey": "Items/Fragments/Melee Add Mega ChopPower Fragment",
+      "itemGuid": "3b08004ae80265f44a81675f37b261ac"
+    },
+    {
+      "itemId": 111,
+      "itemName": "Cargo Shorts",
+      "itemFullNameKey": "Items/Gear/Pants/Cargo Shorts",
+      "itemGuid": "3bbfd18da14a20b4e9da3b21c41ae7e9"
+    },
+    {
+      "itemId": 112,
+      "itemName": "Gun Minor Reload Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Minor Reload Speed Fragment",
+      "itemGuid": "3bee70b855ac834408e8409db07f7f8e"
+    },
+    {
+      "itemId": 113,
+      "itemName": "AWM Eureka Scope 12x",
+      "itemFullNameKey": "Items/Weapon Attachments/Eureka Scope",
+      "itemGuid": "3c0698e00eb0e7b4ea38bf1ade4ac13d"
+    },
+    {
+      "itemId": 114,
+      "itemName": "Billycart Wheel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Wheel (Billycart)",
+      "itemGuid": "3ce6f180d8fb0624dbd7160a0fc3d848"
+    },
+    {
+      "itemId": 115,
+      "itemName": "Mac10 Tip Quell",
+      "itemFullNameKey": "Items/Weapon Attachments/Quell Tip",
+      "itemGuid": "3d6383ee6ce57d34a805045f3ecf1b99"
+    },
+    {
+      "itemId": 116,
+      "itemName": "StartDesertTerritoryBlock",
+      "itemFullNameKey": "Items/HeavyBlocks/Earth Block",
+      "itemGuid": "4003e7de7cae79d4a8aeba91c74c7b68"
+    },
+    {
+      "itemId": 117,
+      "itemName": "Vehicle Engine Minor Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Minor Protection Fragment",
+      "itemGuid": "401ac4a5dd9d9214684e3e58e1612505"
+    },
+    {
+      "itemId": 118,
+      "itemName": "Gun Mega Reload Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Mega Reload Speed Fragment",
+      "itemGuid": "4044cbd9f313cff479dd930e268cfcdc"
+    },
+    {
+      "itemId": 119,
+      "itemName": "Vehicle Engine Major Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Major Protection Fragment",
+      "itemGuid": "4103c7659088c0c4faee9c9e7740e562"
+    },
+    {
+      "itemId": 120,
+      "itemName": "Insulated Jeans",
+      "itemFullNameKey": "Items/Gear/Pants/Insulated Jeans",
+      "itemGuid": "426252b4467454b45a9bfb52b236bbec"
+    },
+    {
+      "itemId": 121,
+      "itemName": "Gear Mega MoveSpeed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Mega MoveSpeed Fragment",
+      "itemGuid": "42de997d041446b4d8e59eff79aa1ee3"
+    },
+    {
+      "itemId": 122,
+      "itemName": "Kanga Phoenix Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Phoenix Panel (Front)",
+      "itemGuid": "44af6acd4614fbf498515b565718ac81"
+    },
+    {
+      "itemId": 123,
+      "itemName": "Kanga Conflagration Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Conflagration Panel (Front)",
+      "itemGuid": "459a0f04bd975b5489c2c1cb35d357c7"
+    },
+    {
+      "itemId": 124,
+      "itemName": "RoachChassis",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Chassis",
+      "itemGuid": "46918465df66f2a459c84136082ad0ba"
+    },
+    {
+      "itemId": 125,
+      "itemName": "Gear Mega Health Regeneration Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Mega Health Regeneration Fragment",
+      "itemGuid": "478da7f623b17c441b3cc0cf363af219"
+    },
+    {
+      "itemId": 126,
+      "itemName": "Beretta Ironsight Seer",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Ironsight Seer",
+      "itemGuid": "480e698b037f4b34ea079f2b56eb3d15"
+    },
+    {
+      "itemId": 127,
+      "itemName": "Amber",
+      "itemFullNameKey": "Items/Raw Materials/Amber",
+      "itemGuid": "49a99af8b780d07489c5794c13fab84c"
+    },
+    {
+      "itemId": 128,
+      "itemName": "Item Colorer",
+      "itemFullNameKey": "Items/Fragments/Item Colorer",
+      "itemGuid": "4a1ba4f9b58ff1645a2ffe2c2c4318ed"
+    },
+    {
+      "itemId": 129,
+      "itemName": "Combat Helmet",
+      "itemFullNameKey": "Items/Gear/Head/Combat Helmet",
+      "itemGuid": "4a601b9178264f74ba43b373cda7beec"
+    },
+    {
+      "itemId": 130,
+      "itemName": "Bow Minor Draw Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Bow Minor Draw Speed Fragment",
+      "itemGuid": "4a821f26e00a2e742ac642e3defec32c"
+    },
+    {
+      "itemId": 131,
+      "itemName": "AWM Eureka Scope 6x",
+      "itemFullNameKey": "Items/Weapon Attachments/Eureka Scope",
+      "itemGuid": "4adc38e0c1bf4d54e889f7b31bb9a356"
+    },
+    {
+      "itemId": 132,
+      "itemName": "VehicleWrench",
+      "itemFullNameKey": "Items/Tools/Wrench (Vehicle)",
+      "itemGuid": "4b0964cd4eebe794a9968797701e0938"
+    },
+    {
+      "itemId": 133,
+      "itemName": "Roach Front Seat",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Front Seat",
+      "itemGuid": "4b7c1d987f116c34a938bb83721ce709"
+    },
+    {
+      "itemId": 134,
+      "itemName": "LandCrab Mine",
+      "itemFullNameKey": "Items/Weapons/Landcrab Mine",
+      "itemGuid": "4b925d76012f453478d67b5b43422f46"
+    },
+    {
+      "itemId": 135,
+      "itemName": "Melee Add MinePower Fragment",
+      "itemFullNameKey": "Items/Fragments/Melee Add MinePower Fragment",
+      "itemGuid": "4ba8049e318f6da4ba5406bf2410fbeb"
+    },
+    {
+      "itemId": 136,
+      "itemName": "AR Mag Serial",
+      "itemFullNameKey": "Items/Weapon Attachments/Serial Magazine",
+      "itemGuid": "4bf88bbd6b3d4434584aba6bfc025792"
+    },
+    {
+      "itemId": 137,
+      "itemName": "Gear Mega Radiation Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Mega Radiation Protection Fragment",
+      "itemGuid": "4bfb8cf201b646648857bd9b0b2e7689"
+    },
+    {
+      "itemId": 138,
+      "itemName": "Damaged Boots",
+      "itemFullNameKey": "Items/Gear/Shoes/Damaged Boots",
+      "itemGuid": "4c042ea0b3e4d05458a0ed24c7244ab4"
+    },
+    {
+      "itemId": 139,
+      "itemName": "Beretta Magazine Journal",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Magazine Journal",
+      "itemGuid": "4c126037d42138b4aa7d068f6040f0b5"
+    },
+    {
+      "itemId": 140,
+      "itemName": "Sand Hopper Wheel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Wheel (Sand Hopper)",
+      "itemGuid": "4c69ecbb8657f1b40a014bddbef68957"
+    },
+    {
+      "itemId": 141,
+      "itemName": "Shaped Iron",
+      "itemFullNameKey": "Items/Processed Materials/Shaped Iron",
+      "itemGuid": "4ca984a2e0a2435479c44956e443dff4"
+    },
+    {
+      "itemId": 142,
+      "itemName": "Irradiated Owrong Seed",
+      "itemFullNameKey": "Items/Processed Materials/Irradiated Owrong Seeds",
+      "itemGuid": "4cbcaa221ae71574c960d6acefc8bec7"
+    },
+    {
+      "itemId": 143,
+      "itemName": "Vehicle Engine Minor Power Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Minor Power Fragment",
+      "itemGuid": "4e68511cd981913458e44cfbeb11386b"
+    },
+    {
+      "itemId": 144,
+      "itemName": "Pickaxe BigHitter Fragment",
+      "itemFullNameKey": "Items/Fragments/Pickaxe BigHitter Fragment",
+      "itemGuid": "4f430fe307ea27c42bab967ab8b50b01"
+    },
+    {
+      "itemId": 145,
+      "itemName": "Vehicle Engine Unstable Upgrade Extender",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Unstable Upgrade Extender",
+      "itemGuid": "4ffa812a12358d1479474672183dca9b"
+    },
+    {
+      "itemId": 146,
+      "itemName": "Cloth Beanie",
+      "itemFullNameKey": "Items/Gear/Head/Beanie (Cloth)",
+      "itemGuid": "5060aa8ee8630a142aa0926f7704ed66"
+    },
+    {
+      "itemId": 147,
+      "itemName": "AR Silencer Quash",
+      "itemFullNameKey": "Items/Weapon Attachments/Quash Silencer",
+      "itemGuid": "51da72a36fb521d4da70dfb8f59aa2d4"
+    },
+    {
+      "itemId": 148,
+      "itemName": "Roach Rheum Side Panel Right",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Rheum Panel (Right)",
+      "itemGuid": "52a74d00c1aaac04c9c6a9076150383e"
+    },
+    {
+      "itemId": 149,
+      "itemName": "Kanga Saw Wheel Front",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Front Wheel (Saw)",
+      "itemGuid": "54496e8166caa664596524cfda88c0ab"
+    },
+    {
+      "itemId": 150,
+      "itemName": "AWM Pointer Tip",
+      "itemFullNameKey": "Items/Weapon Attachments/Pointer Tip",
+      "itemGuid": "54cf6e2f16f0e7742b5eff0509ba278e"
+    },
+    {
+      "itemId": 151,
+      "itemName": "AR Stock Cache",
+      "itemFullNameKey": "Items/Weapon Attachments/Cache Stock",
+      "itemGuid": "55c49482077eea043bfff354b0502b46"
+    },
+    {
+      "itemId": 152,
+      "itemName": "Jacket",
+      "itemFullNameKey": "Items/Gear/Chest/Jacket",
+      "itemGuid": "5628b27fcf90bc04ebd5402360e91c3b"
+    },
+    {
+      "itemId": 153,
+      "itemName": "TerritoryC4",
+      "itemFullNameKey": "Items/Weapons/Territory C4",
+      "itemGuid": "565884f053ae18d459ee43fc3cb0b307"
+    },
+    {
+      "itemId": 154,
+      "itemName": "Titranium Workbench",
+      "itemFullNameKey": "Machines/Workbench (Titranium)",
+      "itemGuid": "56c3b7ac1b922f2489afbe061ee624b7"
+    },
+    {
+      "itemId": 155,
+      "itemName": "Jump Medallion 3",
+      "itemFullNameKey": "Items/Rare Materials/Jump Medallion 3",
+      "itemGuid": "56cd4a22a45f4094b91d66eee952eb12"
+    },
+    {
+      "itemId": 156,
+      "itemName": "Steak (Frozen, Raw)",
+      "itemFullNameKey": "Items/Consumables/Steak (Frozen, Raw)",
+      "itemGuid": "57838b5f8386623438308213ac0ea706"
+    },
+    {
+      "itemId": 157,
+      "itemName": "Roach Flat Mask",
+      "itemFullNameKey": "Items/Paint Masks/Roach Flat Mask",
+      "itemGuid": "57daf464b3e82474aa5eff939bd079c5"
+    },
+    {
+      "itemId": 158,
+      "itemName": "AR RedDot Vista",
+      "itemFullNameKey": "Items/Weapon Attachments/Vista Red Dot",
+      "itemGuid": "596754aa11926ff4aaa7cd8cfaaf3d26"
+    },
+    {
+      "itemId": 159,
+      "itemName": "Iron Ore",
+      "itemFullNameKey": "Items/Raw Materials/Iron Ore",
+      "itemGuid": "5aabd04a12a9a184c93fc7ebb1d1e160"
+    },
+    {
+      "itemId": 160,
+      "itemName": "Goat Flames Mask",
+      "itemFullNameKey": "Items/Paint Masks/Goat Flames Mask",
+      "itemGuid": "5b3efca092007374eb89bceae3e144d5"
+    },
+    {
+      "itemId": 161,
+      "itemName": "Kanga Paddlin Wheel Rear",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Rear Wheel (Paddlin)",
+      "itemGuid": "5bbf246c683d2fc4abfbd82bc96357ff"
+    },
+    {
+      "itemId": 162,
+      "itemName": "Shigi Mask",
+      "itemFullNameKey": "Items/Masks/Shigi",
+      "itemGuid": "5deec6eaf20fc9a4390ee7eff7092234"
+    },
+    {
+      "itemId": 163,
+      "itemName": "AutomaticDrillRed",
+      "itemFullNameKey": "Machines/Drill (Standard)",
+      "itemGuid": "5e4e59eb57727ef48bcf114f967cf205"
+    },
+    {
+      "itemId": 164,
+      "itemName": "Gear Mega Toxin Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Mega Toxin Protection Fragment",
+      "itemGuid": "5e805f4371686004dae61282eb280410"
+    },
+    {
+      "itemId": 165,
+      "itemName": "308 Bullet",
+      "itemFullNameKey": "Items/Ammo/308 Bullet",
+      "itemGuid": "5fa4f92772653304a83d4f7b442f0934"
+    },
+    {
+      "itemId": 166,
+      "itemName": "Roach Sharkweek Side Panel Right",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Sharkweek Panel (Right)",
+      "itemGuid": "5fe89ff8c6b5e5c46bfe73bd6591f4b8"
+    },
+    {
+      "itemId": 167,
+      "itemName": "FR18 Locus Scope",
+      "itemFullNameKey": "Items/Weapon Attachments/Locus Scope",
+      "itemGuid": "602de57d611dad04e8b3a0ff5532045a"
+    },
+    {
+      "itemId": 168,
+      "itemName": "Mozzy Flat Mask",
+      "itemFullNameKey": "Items/Paint Masks/Mozzy Flat Mask",
+      "itemGuid": "614231f2d01d8834fa3cc5d940fd1c33"
+    },
+    {
+      "itemId": 169,
+      "itemName": "Workbench",
+      "itemFullNameKey": "Machines/Workbench",
+      "itemGuid": "61ad177a217ab3540b2305017e790ce3"
+    },
+    {
+      "itemId": 170,
+      "itemName": "Vehicle Engine Mega Power Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Mega Power Fragment",
+      "itemGuid": "63400a59f087612499e47c45fbdb4ffc"
+    },
+    {
+      "itemId": 171,
+      "itemName": "Goat Flat Mask",
+      "itemFullNameKey": "Items/Paint Masks/Goat Flat Mask",
+      "itemGuid": "63d19f119ec84b04ea967bcf30c14a3a"
+    },
+    {
+      "itemId": 172,
+      "itemName": "BedBuilder",
+      "itemFullNameKey": "Machines/Bed",
+      "itemGuid": "650433e03e6f7f84e8ea1575b0521766"
+    },
+    {
+      "itemId": 173,
+      "itemName": "KangaChassis",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Chassis",
+      "itemGuid": "65087fa77cc8dcd408620dd325251e7f"
+    },
+    {
+      "itemId": 174,
+      "itemName": "Kanga Fire Ant Rearpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Fire Ant Panel (Rear)",
+      "itemGuid": "65fab1e8f01a76d44aab098eaf0f6033"
+    },
+    {
+      "itemId": 175,
+      "itemName": "Gear Major Reload Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Major Reload Speed Fragment",
+      "itemGuid": "660bdce9922aa804baf4222cd44c7015"
+    },
+    {
+      "itemId": 176,
+      "itemName": "Quadbike Nipple Wheel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Nipple Wheel",
+      "itemGuid": "66a09112e29cb5d4a80c41f1f9831800"
+    },
+    {
+      "itemId": 177,
+      "itemName": "Scope Mega Sway Reducer Fragment",
+      "itemFullNameKey": "Items/Fragments/Scope Mega Sway Reducer Fragment",
+      "itemGuid": "67881f6a4a3bae84089133a245d61303"
+    },
+    {
+      "itemId": 178,
+      "itemName": "Arrow",
+      "itemFullNameKey": "Items/Ammo/Arrow",
+      "itemGuid": "68547fe0d2e5e404f99db277907a7904"
+    },
+    {
+      "itemId": 179,
+      "itemName": "Chemsuit Gloves",
+      "itemFullNameKey": "Items/Gear/Hands/Chemsuit Gloves",
+      "itemGuid": "688e9ee1d34d78948b1095c8e91f71c2"
+    },
+    {
+      "itemId": 180,
+      "itemName": "Gun Major Hipfire Accuracy Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Major Hipfire Accuracy Fragment",
+      "itemGuid": "68c5eeac4c8d2784d8e123baef7d76d5"
+    },
+    {
+      "itemId": 181,
+      "itemName": "Bow T1",
+      "itemFullNameKey": "Items/Weapons/Bow (Improvised)",
+      "itemGuid": "696dbf7ecf28c95419abdf71ee835d7e"
+    },
+    {
+      "itemId": 182,
+      "itemName": "Steak (Cooked)",
+      "itemFullNameKey": "Items/Consumables/Steak (Cooked)",
+      "itemGuid": "69e507786ac674842b3fb31c0fe3f41a"
+    },
+    {
+      "itemId": 183,
+      "itemName": "Kanga Earwig Rearpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Earwig Panel (Rear)",
+      "itemGuid": "6a581bc09fb750a44947528b00f0c4a0"
+    },
+    {
+      "itemId": 184,
+      "itemName": "Leather",
+      "itemFullNameKey": "Items/Raw Materials/Leather",
+      "itemGuid": "6b7947b53332d9f40b06a7a275585241"
+    },
+    {
+      "itemId": 185,
+      "itemName": "ForestTerritoryBlock",
+      "itemFullNameKey": "Items/HeavyBlocks/Leaf Block",
+      "itemGuid": "6cbb339ebe93397409508dbe113d2c1c"
+    },
+    {
+      "itemId": 186,
+      "itemName": "AR Barrel Keg",
+      "itemFullNameKey": "Items/Weapon Attachments/Keg Barrel",
+      "itemGuid": "6d06041faab2dbd4aaff0b93567dde19"
+    },
+    {
+      "itemId": 187,
+      "itemName": "Mozzy Luminescent RightPanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Luminescent Panel (Right)",
+      "itemGuid": "6eb25293f0208eb4ea404afd0b61d92e"
+    },
+    {
+      "itemId": 188,
+      "itemName": "Roach Chaser Rear Panel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Chaser Panel (Rear)",
+      "itemGuid": "6f7f13c59a936254c9fc5a32ff73d2a5"
+    },
+    {
+      "itemId": 189,
+      "itemName": "SnowTerritoryBlock",
+      "itemFullNameKey": "Items/HeavyBlocks/Frost Block",
+      "itemGuid": "70501047076e1d34b93d8b8876af7995"
+    },
+    {
+      "itemId": 190,
+      "itemName": "Owrong (Mouldy)",
+      "itemFullNameKey": "Items/Consumables/Owrong (Mouldy)",
+      "itemGuid": "716d0380534f4fe4e9c85c699ba872f2"
+    },
+    {
+      "itemId": 191,
+      "itemName": "Concrete",
+      "itemFullNameKey": "Items/Processed Materials/Concrete",
+      "itemGuid": "719487600bfb9d64b91b2c1c2e65e391"
+    },
+    {
+      "itemId": 192,
+      "itemName": "RareTerritoryBlock",
+      "itemFullNameKey": "Items/HeavyBlocks/Gold Block",
+      "itemGuid": "728680e307b59744b835cf74c31fca20"
+    },
+    {
+      "itemId": 193,
+      "itemName": "Shaped Titranium",
+      "itemFullNameKey": "Items/Processed Materials/Shaped Titranium",
+      "itemGuid": "7311ce842e8693542bc010d2a7e7218f"
+    },
+    {
+      "itemId": 194,
+      "itemName": "Roach Rheum Rear Panel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Rheum Panel (Rear)",
+      "itemGuid": "74456014e5f6ee941963f4370ff8080d"
+    },
+    {
+      "itemId": 195,
+      "itemName": "Ultranium Ore",
+      "itemFullNameKey": "Items/Raw Materials/Ultranium Ore",
+      "itemGuid": "752c8064af60ae74d9f893912f820b6a"
+    },
+    {
+      "itemId": 196,
+      "itemName": "Kanga Conflagration Rearpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Conflagration Panel (Rear)",
+      "itemGuid": "77e3032c9c15f71488e6d720bd8a4e89"
+    },
+    {
+      "itemId": 197,
+      "itemName": "Snow Jacket",
+      "itemFullNameKey": "Items/Gear/Chest/Snow Jacket",
+      "itemGuid": "78281bb91c220434ab2f7492e5d5380f"
+    },
+    {
+      "itemId": 198,
+      "itemName": "Pantsless",
+      "itemFullNameKey": "Items/Gear/Head/Pantsless",
+      "itemGuid": "7899a7cd5d16c3a42b154968985cd759"
+    },
+    {
+      "itemId": 199,
+      "itemName": "Goat Twin Stripes Mask",
+      "itemFullNameKey": "Items/Paint Masks/Goat Twin Stripes Mask",
+      "itemGuid": "78a977840b7bb574087988f7f3d26b8e"
+    },
+    {
+      "itemId": 200,
+      "itemName": "Poison Trap",
+      "itemFullNameKey": "Items/Weapons/Poison Trap",
+      "itemGuid": "7a0214f3b93114143992720f55c94241"
+    },
+    {
+      "itemId": 201,
+      "itemName": "Annoying Top Hat",
+      "itemFullNameKey": "Items/Gear/Head/Annoying Top Hat",
+      "itemGuid": "7a93ac2f03c39ef48ac854bc51167de1"
+    },
+    {
+      "itemId": 202,
+      "itemName": "Bow Major Draw Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Bow Major Draw Speed Fragment",
+      "itemGuid": "7bdaea3a1afe30b43b55836170cecc0e"
+    },
+    {
+      "itemId": 203,
+      "itemName": "Bark",
+      "itemFullNameKey": "Items/Raw Materials/Tree Bark",
+      "itemGuid": "7c6e4cf723c56c64bbdd7449391385c4"
+    },
+    {
+      "itemId": 204,
+      "itemName": "Scope Major Sway Reducer Fragment",
+      "itemFullNameKey": "Items/Fragments/Scope Major Sway Reducer Fragment",
+      "itemGuid": "7d4d225eb86196f449f36c32e4b56621"
+    },
+    {
+      "itemId": 205,
+      "itemName": "Heavy Rack",
+      "itemFullNameKey": "Machines/Heavy Rack",
+      "itemGuid": "809a9e4097bf83343a13345481b0b99b"
+    },
+    {
+      "itemId": 206,
+      "itemName": "Item Namer",
+      "itemFullNameKey": "Items/Item Namer",
+      "itemGuid": "80ffd3c204159254c882caf9f71ba5da"
+    },
+    {
+      "itemId": 207,
+      "itemName": "Scrap",
+      "itemFullNameKey": "Items/Raw Materials/Scrap",
+      "itemGuid": "81439636824d2ff43b0c22edd729c5f5"
+    },
+    {
+      "itemId": 208,
+      "itemName": "Flint Hatchet",
+      "itemFullNameKey": "Items/Tools/Hatchet (Flint)",
+      "itemGuid": "8188b9601f208b14db23ee70f2245970"
+    },
+    {
+      "itemId": 209,
+      "itemName": "Roach Sharkweek Roof Scoop",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Sharkweek Roof Scoop",
+      "itemGuid": "82dabf9515efbcf4c959440bb3b7e133"
+    },
+    {
+      "itemId": 210,
+      "itemName": "Mozzy Magnum Mask",
+      "itemFullNameKey": "Items/Paint Masks/Mozzy Magnum Mask",
+      "itemGuid": "82f31a0aaf0ac9e469e9ae1c5c2bdab9"
+    },
+    {
+      "itemId": 211,
+      "itemName": "Poison Sac",
+      "itemFullNameKey": "Items/Raw Materials/Poison Sac",
+      "itemGuid": "839f2868dbcad1841b3a7ca949beedda"
+    },
+    {
+      "itemId": 212,
+      "itemName": "Vehicle Engine Mega Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Mega Protection Fragment",
+      "itemGuid": "83b96b88e5eb09b4b8b07777cb0e9f23"
+    },
+    {
+      "itemId": 213,
+      "itemName": "1986 Sunglasses",
+      "itemFullNameKey": "Items/Masks/1986 Sunglasses",
+      "itemGuid": "83fd4621132273242877927ebbc25c85"
+    },
+    {
+      "itemId": 214,
+      "itemName": "Mozzy Luminescent TailPanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Luminescent Panel (Tail)",
+      "itemGuid": "842d2ad54961506428f2906e53347a09"
+    },
+    {
+      "itemId": 215,
+      "itemName": "Roach Rheum Side Panel Left",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Rheum Panel (Left)",
+      "itemGuid": "84b59940f75456543b2d40df1143c9fc"
+    },
+    {
+      "itemId": 216,
+      "itemName": "TetherArrow",
+      "itemFullNameKey": "Items/Ammo/Tether Arrow",
+      "itemGuid": "84b641e7571b15345b1db2f30f7590b0"
+    },
+    {
+      "itemId": 217,
+      "itemName": "AWM Bounty Tip",
+      "itemFullNameKey": "Items/Weapon Attachments/Bounty Tip",
+      "itemGuid": "86135553f5c5dbc45ad4a8e5b4b0b31f"
+    },
+    {
+      "itemId": 218,
+      "itemName": "Chemsuit Top",
+      "itemFullNameKey": "Items/Gear/Chest/Chemsuit Top",
+      "itemGuid": "8663cdcdda8f68f4380bfa603442fd4d"
+    },
+    {
+      "itemId": 219,
+      "itemName": "Bow Mega Draw Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Bow Mega Draw Speed Fragment",
+      "itemGuid": "86b4704996582a941a23cf0699bc09ce"
+    },
+    {
+      "itemId": 220,
+      "itemName": "Aussie Hat",
+      "itemFullNameKey": "Items/Gear/Head/Aussie Hat",
+      "itemGuid": "86f90afd474559f4e9f94dd5f031fa1b"
+    },
+    {
+      "itemId": 221,
+      "itemName": "Kanga Angelica Mask",
+      "itemFullNameKey": "Items/Paint Masks/Kanga Angelica Mask",
+      "itemGuid": "872035d6454fe4c4ba98e5880bb057dc"
+    },
+    {
+      "itemId": 222,
+      "itemName": "Mac10 Stock Loc",
+      "itemFullNameKey": "Items/Weapon Attachments/Loc Stock",
+      "itemGuid": "87a59597b74b3d749b0a4b02cd7d7e7c"
+    },
+    {
+      "itemId": 223,
+      "itemName": "Goat Judy Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Judy Panel (Front)",
+      "itemGuid": "882d53299aec4d640ab3aea7e44aafce"
+    },
+    {
+      "itemId": 224,
+      "itemName": "Melee Add ChopPower Fragment",
+      "itemFullNameKey": "Items/Fragments/Melee Add ChopPower Fragment",
+      "itemGuid": "8889347bd76493848b247870bd7282b5"
+    },
+    {
+      "itemId": 225,
+      "itemName": "DunesTerritoryBlock",
+      "itemFullNameKey": "Items/HeavyBlocks/Sand Block",
+      "itemGuid": "88d03e8b480bd414e8cb78ef94d3a7d7"
+    },
+    {
+      "itemId": 226,
+      "itemName": "Fake Sleeper",
+      "itemFullNameKey": "Items/Weapons/Fake Sleeper",
+      "itemGuid": "8aee134491838ac41ab07a6df72a45dc"
+    },
+    {
+      "itemId": 227,
+      "itemName": "Goat Racer Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Racer Panel (Front)",
+      "itemGuid": "8af035421af1993428474d24a3cc993d"
+    },
+    {
+      "itemId": 228,
+      "itemName": "Gavku Mask",
+      "itemFullNameKey": "Items/Masks/Gavku",
+      "itemGuid": "8c46e211e374cf141a7156e01930e3cb"
+    },
+    {
+      "itemId": 229,
+      "itemName": "Gasoline",
+      "itemFullNameKey": "Items/Processed Materials/Gasoline",
+      "itemGuid": "8d3086b411b3387469625e7c1935dae7"
+    },
+    {
+      "itemId": 230,
+      "itemName": "Goat Skull Mask",
+      "itemFullNameKey": "Items/Paint Masks/Goat Skull Mask",
+      "itemGuid": "8e0b9ffc658bff34bae9beb87d32b169"
+    },
+    {
+      "itemId": 231,
+      "itemName": "Gun Major Recoil Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Major Recoil Reduction Fragment",
+      "itemGuid": "8e22f062d6565374aa937b8ed84f6cd9"
+    },
+    {
+      "itemId": 232,
+      "itemName": "Combat Vest",
+      "itemFullNameKey": "Items/Gear/Chest/Combat Vest",
+      "itemGuid": "8ed2fa7f60662a14580e81912e37494a"
+    },
+    {
+      "itemId": 233,
+      "itemName": "Roach Sharkweek Bumper",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Sharkweek Bumper",
+      "itemGuid": "908d8d2a866af7e46b24a750ee18d024"
+    },
+    {
+      "itemId": 234,
+      "itemName": "Iron Axe",
+      "itemFullNameKey": "Items/Tools/Axe (Iron)",
+      "itemGuid": "9099ce168cf8048489e1d3104a8fd8d3"
+    },
+    {
+      "itemId": 235,
+      "itemName": "SlugGearbox",
+      "itemFullNameKey": "Items/Vehicle Attachments/Slug/Gearbox (Offroad)",
+      "itemGuid": "90e1ef4addb12934e8b457ec78b6b54f"
+    },
+    {
+      "itemId": 236,
+      "itemName": "Gun Mega Hipfire Accuracy Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Mega Hipfire Accuracy Fragment",
+      "itemGuid": "9179cf97228cc1a4286c9a165455781a"
+    },
+    {
+      "itemId": 237,
+      "itemName": "Gear Mega Cold Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Mega Cold Protection Fragment",
+      "itemGuid": "9187e03c25f5f014698fec12135199d6"
+    },
+    {
+      "itemId": 238,
+      "itemName": "Jump Medallion 4",
+      "itemFullNameKey": "Items/Rare Materials/Jump Medallion 4",
+      "itemGuid": "91be2e2845f99414daa1956fd519346f"
+    },
+    {
+      "itemId": 239,
+      "itemName": "Basic Tshirt",
+      "itemFullNameKey": "Items/Gear/Chest/Basic Tshirt",
+      "itemGuid": "924bef783f7b17044b8a4c57dcdd6718"
+    },
+    {
+      "itemId": 240,
+      "itemName": "Vehicle Engine Major Power Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Major Power Fragment",
+      "itemGuid": "938d469452e6bdb4e9f75ee499d9b2be"
+    },
+    {
+      "itemId": 241,
+      "itemName": "Vehicle Engine Minor Fuel Efficiency Fragment",
+      "itemFullNameKey": "Items/Fragments/Vehicle Engine Minor Fuel Efficiency Fragment",
+      "itemGuid": "93b8134dfaf356540bf9e6f3a15fa3de"
+    },
+    {
+      "itemId": 242,
+      "itemName": "Mondinium Ore",
+      "itemFullNameKey": "Items/Raw Materials/Mondinium Ore",
+      "itemGuid": "94403e4fd62f3b64cb345726c9980a39"
+    },
+    {
+      "itemId": 243,
+      "itemName": "Tokar Mask",
+      "itemFullNameKey": "Items/Masks/Tokar",
+      "itemGuid": "950f1aaccf83cc04bac1eb40c8bf22dd"
+    },
+    {
+      "itemId": 244,
+      "itemName": "Gear Minor Reload Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Minor Reload Speed Fragment",
+      "itemGuid": "96817c0ea1b621f42b5aeebe4c230c37"
+    },
+    {
+      "itemId": 245,
+      "itemName": "SlugEngine",
+      "itemFullNameKey": "Items/Vehicle Attachments/Slug/Engine (Standard)",
+      "itemGuid": "96bddde0f42b8614e871a6105ae785ff"
+    },
+    {
+      "itemId": 246,
+      "itemName": "RaidDrill",
+      "itemFullNameKey": "Machines/Raid Drill/Raid Drill",
+      "itemGuid": "972cbc350a69a14419b7c06a3baaa090"
+    },
+    {
+      "itemId": 247,
+      "itemName": "Roach DigiCamo Mask",
+      "itemFullNameKey": "Items/Paint Masks/Roach DigiCamo Mask",
+      "itemGuid": "974a2e908b5883b438513bd6a5bff2c4"
+    },
+    {
+      "itemId": 248,
+      "itemName": "FR18",
+      "itemFullNameKey": "Items/Weapons/FR18",
+      "itemGuid": "9845369ab7f0b134a9919fcb078ced11"
+    },
+    {
+      "itemId": 249,
+      "itemName": "Roach Swirler Mask",
+      "itemFullNameKey": "Items/Paint Masks/Roach Swirler Mask",
+      "itemGuid": "9883747f2239cdc4b93ef48503981f41"
+    },
+    {
+      "itemId": 250,
+      "itemName": "DevShoes",
+      "itemFullNameKey": "Shoes of Dev Speed",
+      "itemGuid": "9933775905916c141bd797356922efad"
+    },
+    {
+      "itemId": 251,
+      "itemName": "Shotgun",
+      "itemFullNameKey": "Items/Weapons/Shotgun",
+      "itemGuid": "9a7fbb0ae0458b34d9881dde08f23d6e"
+    },
+    {
+      "itemId": 252,
+      "itemName": "Blast Furnace",
+      "itemFullNameKey": "Machines/Blast Furnace",
+      "itemGuid": "9b6f297eb0b7dab4388c01307eb2ae6b"
+    },
+    {
+      "itemId": 253,
+      "itemName": "Melee Major AttackSpeed Fragment",
+      "itemFullNameKey": "Items/Fragments/Melee Major AttackSpeed Fragment",
+      "itemGuid": "9cdaef14d0f257d46bf449b862a1af30"
+    },
+    {
+      "itemId": 254,
+      "itemName": "Goat Stasher Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Stasher Panel (Front)",
+      "itemGuid": "9d1f716ba5817aa40b26c9ca82db8227"
+    },
+    {
+      "itemId": 255,
+      "itemName": "Ash",
+      "itemFullNameKey": "Items/Raw Materials/Ash",
+      "itemGuid": "9d810f212e954c9468a906a014347b4b"
+    },
+    {
+      "itemId": 256,
+      "itemName": "Drillbit",
+      "itemFullNameKey": "Machines/Raid Drill/Raid Drill Drillbit",
+      "itemGuid": "9e51882601d530b469bf8b0cddc06f74"
+    },
+    {
+      "itemId": 257,
+      "itemName": "AWM",
+      "itemFullNameKey": "Items/Weapons/AWM",
+      "itemGuid": "9f51e9982ea5f2e43bbf97a8cd9a3108"
+    },
+    {
+      "itemId": 258,
+      "itemName": "TwistJump",
+      "itemFullNameKey": "Barrol Roll Jump",
+      "itemGuid": "a00b6bf3ddf37cd40a4508d9d99bccd8"
+    },
+    {
+      "itemId": 259,
+      "itemName": "Animal Fat",
+      "itemFullNameKey": "Items/Raw Materials/Animal Fat",
+      "itemGuid": "a17eec92557fea8479fb1398b9fe04f9"
+    },
+    {
+      "itemId": 260,
+      "itemName": "Goat Judy Backpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Judy Panel (Rear)",
+      "itemGuid": "a19a622db159bc54b86ed9a149a8e2a1"
+    },
+    {
+      "itemId": 261,
+      "itemName": "Kanga Flat Mask",
+      "itemFullNameKey": "Items/Paint Masks/Kanga Flat Mask",
+      "itemGuid": "a2534ef3018c8f1488e80cc744e3eab0"
+    },
+    {
+      "itemId": 262,
+      "itemName": "Mozzy Luminescent RoofPanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Luminescent Panel (Roof)",
+      "itemGuid": "a3a258815af632f448c1d1197ce0a8e0"
+    },
+    {
+      "itemId": 263,
+      "itemName": "556 Bullet",
+      "itemFullNameKey": "Items/Ammo/5.56mm Bullet",
+      "itemGuid": "a42c319604aa1e642af33f9a8a0aa472"
+    },
+    {
+      "itemId": 264,
+      "itemName": "Kanga Phoenix Rearpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Phoenix Panel (Rear)",
+      "itemGuid": "a4e48818969f1b2409ca7f73c8c33d5f"
+    },
+    {
+      "itemId": 265,
+      "itemName": "Wood",
+      "itemFullNameKey": "Items/Raw Materials/Wood Log",
+      "itemGuid": "a6d6609a7c190de44b9940f83cb6737e"
+    },
+    {
+      "itemId": 266,
+      "itemName": "Beretta Magazine Pulp",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Magazine Pulp",
+      "itemGuid": "a6df4478ded8fdd4d875bfa26384e30c"
+    },
+    {
+      "itemId": 267,
+      "itemName": "AWM RedDot Vista",
+      "itemFullNameKey": "Items/Weapon Attachments/Vista Red Dot",
+      "itemGuid": "a7dcb2a81e78583448f35113e1e0972e"
+    },
+    {
+      "itemId": 268,
+      "itemName": "Mac10 Stock Supply",
+      "itemFullNameKey": "Items/Weapon Attachments/Supply Stock",
+      "itemGuid": "a832a119856e5974fa917676ebcf3d8d"
+    },
+    {
+      "itemId": 269,
+      "itemName": "MozzyChassis",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Chassis",
+      "itemGuid": "a83a4712039641a45aa6143332544cb6"
+    },
+    {
+      "itemId": 270,
+      "itemName": "GoatChassis",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Chassis",
+      "itemGuid": "a8ae1d8064ec9454a85586cb540ac074"
+    },
+    {
+      "itemId": 271,
+      "itemName": "Mac10 Magazine Gazette",
+      "itemFullNameKey": "Items/Weapon Attachments/Gazette Magazine",
+      "itemGuid": "a8bdf51707eb00b4dbe78b65156c0e42"
+    },
+    {
+      "itemId": 272,
+      "itemName": "Roach 44 Gal Armor",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/44 Gallon Armor",
+      "itemGuid": "a95056c333dfac74f9698e5ce03856d3"
+    },
+    {
+      "itemId": 273,
+      "itemName": "Kanga Raider Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Raider Panel (Front)",
+      "itemGuid": "a9d7a4e297eb2224db9e3ca3039dd152"
+    },
+    {
+      "itemId": 274,
+      "itemName": "AR Tip Bounty",
+      "itemFullNameKey": "Items/Weapon Attachments/Bounty Tip",
+      "itemGuid": "a9feba97a6ad42748ba2062ec8c14a9f"
+    },
+    {
+      "itemId": 275,
+      "itemName": "Sunscreen",
+      "itemFullNameKey": "Items/Consumables/Sunscreen",
+      "itemGuid": "aa7dd1d08510a8340969176a89c06eee"
+    },
+    {
+      "itemId": 276,
+      "itemName": "AR Silencer Shush",
+      "itemFullNameKey": "Items/Weapon Attachments/Shush Silencer",
+      "itemGuid": "aa80491514dbe484caf321f361f14e0c"
+    },
+    {
+      "itemId": 277,
+      "itemName": "Roach Rheum Bumper",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Rheum Bumper",
+      "itemGuid": "ab0be918cb5bca44781f7f164d29c5f7"
+    },
+    {
+      "itemId": 278,
+      "itemName": "AR Stock Routine",
+      "itemFullNameKey": "Items/Weapon Attachments/Routine Stock",
+      "itemGuid": "ac7d8456807585d4d8e35a15dafa95cf"
+    },
+    {
+      "itemId": 279,
+      "itemName": "AR Ironsight Witness",
+      "itemFullNameKey": "Items/Weapon Attachments/Witness Ironsight",
+      "itemGuid": "ad3c9d5b477f067428f95e91837df32a"
+    },
+    {
+      "itemId": 280,
+      "itemName": "Fireplace",
+      "itemFullNameKey": "Items/Building Kits/Fireplace",
+      "itemGuid": "add99334e92ab364ab92b4b0129c8ef7"
+    },
+    {
+      "itemId": 281,
+      "itemName": "Kanga Grade80 Mask",
+      "itemFullNameKey": "Items/Paint Masks/Kanga Grade80 Mask",
+      "itemGuid": "ae27aae8ad1dd364e8565ee39965415b"
+    },
+    {
+      "itemId": 282,
+      "itemName": "Simple Shorts",
+      "itemFullNameKey": "Items/Gear/Pants/Simple Shorts",
+      "itemGuid": "ae4db69f4ec622549b05e22796c6b97a"
+    },
+    {
+      "itemId": 283,
+      "itemName": "Bomber Jacket",
+      "itemFullNameKey": "Items/Gear/Chest/Bomber Jacket",
+      "itemGuid": "ae9bccf9e199cf64b8f1fee43cc20495"
+    },
+    {
+      "itemId": 284,
+      "itemName": "Rebel Hat",
+      "itemFullNameKey": "Items/Gear/Head/Rebel Hat",
+      "itemGuid": "b15275e1919aea74c81a825c58a70635"
+    },
+    {
+      "itemId": 285,
+      "itemName": "Yeti Mask",
+      "itemFullNameKey": "Items/Masks/Yeti",
+      "itemGuid": "b1a7269165fc471408a8dd700591a3dc"
+    },
+    {
+      "itemId": 286,
+      "itemName": "Gear Major Cold Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Major Cold Protection Fragment",
+      "itemGuid": "b1c1340aecfe4434da2a02a352cca816"
+    },
+    {
+      "itemId": 287,
+      "itemName": "AWM Stock Divergent",
+      "itemFullNameKey": "Items/Weapon Attachments/Divergent Stock",
+      "itemGuid": "b1c90590d6083f94689128fc07156c87"
+    },
+    {
+      "itemId": 288,
+      "itemName": "Shotgun Shell",
+      "itemFullNameKey": "Items/Ammo/ShotgunShell",
+      "itemGuid": "b2bca234da168f84f945b8b00e8e9644"
+    },
+    {
+      "itemId": 289,
+      "itemName": "Kanga Crow Rearpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Crow Panel (Rear)",
+      "itemGuid": "b347ad02b8715eb499814d1d7756f452"
+    },
+    {
+      "itemId": 290,
+      "itemName": "Kanga Crow Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Crow Panel (Front)",
+      "itemGuid": "b43adaa8b390a4d419fad421a66b086d"
+    },
+    {
+      "itemId": 291,
+      "itemName": "Gear Major Health Regeneration Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Major Health Regeneration Fragment",
+      "itemGuid": "b4ae292d160f01043bbd55a10f7f92cc"
+    },
+    {
+      "itemId": 292,
+      "itemName": "Roach Sharkweek Hood",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Sharkweek Hood",
+      "itemGuid": "b54288d835d1d9e4cba5c1c2270a50a0"
+    },
+    {
+      "itemId": 293,
+      "itemName": "Tokar Flame Face Mask",
+      "itemFullNameKey": "Items/Masks/Tokar Flame",
+      "itemGuid": "b55d70fc73e18544a858e8e06622bb60"
+    },
+    {
+      "itemId": 294,
+      "itemName": "Goat Stasher Backpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Stasher Panel (Rear)",
+      "itemGuid": "b855837393a791e41bcd257711fd402b"
+    },
+    {
+      "itemId": 295,
+      "itemName": "Titranium Ore",
+      "itemFullNameKey": "Items/Raw Materials/Titranium Ore",
+      "itemGuid": "b867bbf805aff05439535f50939bc2d5"
+    },
+    {
+      "itemId": 296,
+      "itemName": "Avgas",
+      "itemFullNameKey": "Items/Processed Materials/Avgas",
+      "itemGuid": "b8cad4db4e61ef44797e38c6c524632f"
+    },
+    {
+      "itemId": 297,
+      "itemName": "Dynamite",
+      "itemFullNameKey": "Items/Weapons/Dynamite",
+      "itemGuid": "b8dab6efeab91ce4d9f9983a0450f2f0"
+    },
+    {
+      "itemId": 298,
+      "itemName": "Bow T3",
+      "itemFullNameKey": "Items/Weapons/Bow (Fibreflass)",
+      "itemGuid": "b9e6c476bf831954d8e8ba5c1e90c534"
+    },
+    {
+      "itemId": 299,
+      "itemName": "AWM Shush Silencer",
+      "itemFullNameKey": "Items/Weapon Attachments/Shush Silencer",
+      "itemGuid": "bb95609269c25c1429846c13d06eee48"
+    },
+    {
+      "itemId": 300,
+      "itemName": "Mozzy Pirahna RightPanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Pirahna Panel (Right)",
+      "itemGuid": "bbd1fc359426eed4e8a6c3ebb9c8a11a"
+    },
+    {
+      "itemId": 301,
+      "itemName": "Wood Plank",
+      "itemFullNameKey": "Items/Processed Materials/Wood Plank",
+      "itemGuid": "bc8e43c043764af47969004f77d8441f"
+    },
+    {
+      "itemId": 302,
+      "itemName": "Steak (Raw)",
+      "itemFullNameKey": "Items/Consumables/Steak (Raw)",
+      "itemGuid": "bddffd6af1c91aa409423e4c74273b24"
+    },
+    {
+      "itemId": 303,
+      "itemName": "ConstructionHammer",
+      "itemFullNameKey": "Items/Tools/Construction Hammer",
+      "itemGuid": "be64edb8f259dee41814cc330d61ed8e"
+    },
+    {
+      "itemId": 304,
+      "itemName": "Hexel Mask",
+      "itemFullNameKey": "Items/Paint Masks/Hexel Mask",
+      "itemGuid": "c0df4b3a66e429d49b6ebe94947dcefe"
+    },
+    {
+      "itemId": 305,
+      "itemName": "Mozzy Pirahna Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Pirahna Panel (Front)",
+      "itemGuid": "c12b063c540b8a341ac4b42143a9ad6b"
+    },
+    {
+      "itemId": 306,
+      "itemName": "Gear Minor Heat Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Minor Heat Protection Fragment",
+      "itemGuid": "c2b185e1f8953b24cbdf519176b054a8"
+    },
+    {
+      "itemId": 307,
+      "itemName": "Stone",
+      "itemFullNameKey": "Items/Raw Materials/Stone",
+      "itemGuid": "c47f67445d6444140b816e9d10e1cf27"
+    },
+    {
+      "itemId": 308,
+      "itemName": "Shirtless",
+      "itemFullNameKey": "Items/Gear/Head/Shirtless",
+      "itemGuid": "c488cce9703a997489e5a0e960cb9638"
+    },
+    {
+      "itemId": 309,
+      "itemName": "AR Tip Pointer",
+      "itemFullNameKey": "Items/Weapon Attachments/Pointer Tip",
+      "itemGuid": "c50a24af1817d6e4482105e0acf4d474"
+    },
+    {
+      "itemId": 310,
+      "itemName": "Bow Mega Redraw Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Bow Mega Redraw Speed Fragment",
+      "itemGuid": "c52e3e1ac68e16045b04acff57147bfd"
+    },
+    {
+      "itemId": 311,
+      "itemName": "Kanga Gearbox",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Gearbox (Offroad)",
+      "itemGuid": "c5d1509fdf338ed44af571707d108972"
+    },
+    {
+      "itemId": 312,
+      "itemName": "Goat Gearbox",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Gearbox (Offroad)",
+      "itemGuid": "c646377e8ae42d949963302819e204ff"
+    },
+    {
+      "itemId": 313,
+      "itemName": "ShackBuilder",
+      "itemFullNameKey": "Items/Building Kits/Shack",
+      "itemGuid": "c665e1d2c63de044eaaa4c088301061f"
+    },
+    {
+      "itemId": 314,
+      "itemName": "AWM Stock Initial",
+      "itemFullNameKey": "Items/Weapon Attachments/Initial Stock",
+      "itemGuid": "c8414c6b996910046bb50420acf4b707"
+    },
+    {
+      "itemId": 315,
+      "itemName": "Flint",
+      "itemFullNameKey": "Items/Raw Materials/Flint",
+      "itemGuid": "c8b2356541810d249bd355a0418c8a41"
+    },
+    {
+      "itemId": 316,
+      "itemName": "Jump Medallion 5",
+      "itemFullNameKey": "Items/Rare Materials/Jump Medallion 5",
+      "itemGuid": "c8b75f9a5af90bb4eaef664309fc3f42"
+    },
+    {
+      "itemId": 317,
+      "itemName": "Mozzy OhNoes Mask",
+      "itemFullNameKey": "Items/Paint Masks/Mozzy OhNoes Mask",
+      "itemGuid": "c9b5419d95b885644b3a7cf421d6a57a"
+    },
+    {
+      "itemId": 318,
+      "itemName": "Toretto Wheel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Wheel (Toretto)",
+      "itemGuid": "ca6424ad9737d984095ce68bba1f4979"
+    },
+    {
+      "itemId": 319,
+      "itemName": "Mac10",
+      "itemFullNameKey": "Items/Weapons/MAC10",
+      "itemGuid": "caaeca21390320a47ab749d2c4fc2bcb"
+    },
+    {
+      "itemId": 320,
+      "itemName": "Shoeless",
+      "itemFullNameKey": "Items/Gear/Head/Shoeless",
+      "itemGuid": "cabe00feee92a9c45a0dca7aa461a209"
+    },
+    {
+      "itemId": 321,
+      "itemName": "Aviator Sunglasses",
+      "itemFullNameKey": "Items/Masks/Aviator Sunglasses",
+      "itemGuid": "cb9b70437c9b63449ac467eecac1d1af"
+    },
+    {
+      "itemId": 322,
+      "itemName": "Kanga Knobbler Wheel Rear",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Rear Wheel (Knobbler)",
+      "itemGuid": "cbc08fdec7b66114eb556f5472bd5960"
+    },
+    {
+      "itemId": 323,
+      "itemName": "Bor Lava Face Mask",
+      "itemFullNameKey": "Items/Masks/Bor Lava",
+      "itemGuid": "cc89f6688cb14634c83c5312c0403c2e"
+    },
+    {
+      "itemId": 324,
+      "itemName": "AutomaticDrillBlue",
+      "itemFullNameKey": "Machines/Drill (Cold)",
+      "itemGuid": "cccccb6ff1f81ea4786abe999f61ba21"
+    },
+    {
+      "itemId": 325,
+      "itemName": "Titranium Pickaxe",
+      "itemFullNameKey": "Items/Tools/Pickaxe (Titranium)",
+      "itemGuid": "cd375ca7009b59d42b999f7e0d777afa"
+    },
+    {
+      "itemId": 326,
+      "itemName": "Melee Add Mega MinePower Fragment",
+      "itemFullNameKey": "Items/Fragments/Melee Add Mega MinePower Fragment",
+      "itemGuid": "ce87b94446eab7947a4d05a80d98ae87"
+    },
+    {
+      "itemId": 327,
+      "itemName": "Gear Mega Heat Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Mega Heat Protection Fragment",
+      "itemGuid": "ce9c107dc41754249adafaf4597dd9f5"
+    },
+    {
+      "itemId": 328,
+      "itemName": "Limestone",
+      "itemFullNameKey": "Items/Raw Materials/Limestone",
+      "itemGuid": "cf32df6565855d445b0d7adce300a745"
+    },
+    {
+      "itemId": 329,
+      "itemName": "Gun Minor Recoil Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Minor Recoil Reduction Fragment",
+      "itemGuid": "cf56f4040cde5234a8f9d465b2df6129"
+    },
+    {
+      "itemId": 330,
+      "itemName": "Helmet",
+      "itemFullNameKey": "Items/Gear/Head/Helmet",
+      "itemGuid": "cfa21d32f2c7a074287f865861bcd1ec"
+    },
+    {
+      "itemId": 331,
+      "itemName": "Kanga Engine",
+      "itemFullNameKey": "Items/Vehicle Attachments/Kanga/Engine (Standard)",
+      "itemGuid": "d1671eeebecdc4f4eb1dabc871f34ee7"
+    },
+    {
+      "itemId": 332,
+      "itemName": "Detonator Cap",
+      "itemFullNameKey": "Items/Processed Materials/Detonator Cap",
+      "itemGuid": "d31480f29cb72f944b0c1eea1caf81b5"
+    },
+    {
+      "itemId": 333,
+      "itemName": "Roach Engine",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Engine (Standard)",
+      "itemGuid": "d3464eddaf7a1d445a14f1658ca227a1"
+    },
+    {
+      "itemId": 334,
+      "itemName": "Ultranium Pickaxe",
+      "itemFullNameKey": "Items/Tools/Pickaxe (Ultranium)",
+      "itemGuid": "d348c6d11cad478458f9677fc6f1d37d"
+    },
+    {
+      "itemId": 335,
+      "itemName": "Mozzy Luminescent LeftPanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Luminescent Panel (Left)",
+      "itemGuid": "d5c07c6f0194a4a4aa342d2fcd9592eb"
+    },
+    {
+      "itemId": 336,
+      "itemName": "Jump Medallion 1",
+      "itemFullNameKey": "Items/Rare Materials/Jump Medallion 1",
+      "itemGuid": "d5f99724cdd5683468c41d284b5ac464"
+    },
+    {
+      "itemId": 337,
+      "itemName": "Roach Eyes Mask",
+      "itemFullNameKey": "Items/Paint Masks/Roach Eyes Mask",
+      "itemGuid": "d6222c25ea3dab0448edc8f66e23805c"
+    },
+    {
+      "itemId": 338,
+      "itemName": "Mozzy Luminescent Frontpanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Luminescent Panel (Front)",
+      "itemGuid": "d70712dab21c53b469025ab8c3d2a5ba"
+    },
+    {
+      "itemId": 339,
+      "itemName": "Gun Mega Recoil Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Mega Recoil Reduction Fragment",
+      "itemGuid": "d76b6dea3553f6e448299cd37560d9d8"
+    },
+    {
+      "itemId": 340,
+      "itemName": "Hiking Pack",
+      "itemFullNameKey": "Items/Gear/Backpacks/Hiking",
+      "itemGuid": "d7ad675acfddd834c825e7a32cc7e59b"
+    },
+    {
+      "itemId": 341,
+      "itemName": "Mac10 Silencer Zero",
+      "itemFullNameKey": "Items/Weapon Attachments/Zero Silencer",
+      "itemGuid": "d837eeb0bcebcad4893932d5cc75b76d"
+    },
+    {
+      "itemId": 342,
+      "itemName": "Mozzy Pirahna TailPanel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Pirahna Panel (Tail)",
+      "itemGuid": "d83ab9ca8f226ef4d9201e5645b9f7d6"
+    },
+    {
+      "itemId": 343,
+      "itemName": "Clay",
+      "itemFullNameKey": "Items/Raw Materials/Clay",
+      "itemGuid": "db1c715b1ae2f864eb19989b3ac1f4b0"
+    },
+    {
+      "itemId": 344,
+      "itemName": "Wool Jumper",
+      "itemFullNameKey": "Items/Gear/Chest/Wool Jumper",
+      "itemGuid": "db380c7011e476c4f81fe2b700e66b76"
+    },
+    {
+      "itemId": 345,
+      "itemName": "Gavku Lava Face Mask",
+      "itemFullNameKey": "Items/Masks/Gavku Lava",
+      "itemGuid": "dbfd978374c9a9c4183754e6bbcd3a55"
+    },
+    {
+      "itemId": 346,
+      "itemName": "Shaped Ultranium",
+      "itemFullNameKey": "Items/Processed Materials/Shaped Ultranium",
+      "itemGuid": "dc165b04e7e729e49bd496b153a4c737"
+    },
+    {
+      "itemId": 347,
+      "itemName": "Steak (Frozen, Cooked)",
+      "itemFullNameKey": "Items/Consumables/Steak (Frozen, Cooked)",
+      "itemGuid": "dc44105f7bb475141ba5a5653eab8e44"
+    },
+    {
+      "itemId": 348,
+      "itemName": "Gun Minor Hipfire Accuracy Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Minor Hipfire Accuracy Fragment",
+      "itemGuid": "dc74c5bbda2555c498467c2bbba71d0b"
+    },
+    {
+      "itemId": 349,
+      "itemName": "InvisiHat",
+      "itemFullNameKey": "Invisible Hat",
+      "itemGuid": "dcea248c43a3a9b43a3ec1a53c3141e5"
+    },
+    {
+      "itemId": 350,
+      "itemName": "Iron Tipped Spear",
+      "itemFullNameKey": "Items/Weapons/Spear (Iron Tipped)",
+      "itemGuid": "dd536a83e69bf124e94d6ba8e56580ae"
+    },
+    {
+      "itemId": 351,
+      "itemName": "Campfire",
+      "itemFullNameKey": "Machines/Campfire",
+      "itemGuid": "ddfd59e84d2683547a0210392bb11578"
+    },
+    {
+      "itemId": 352,
+      "itemName": "Camouflage Mask",
+      "itemFullNameKey": "Items/Paint Masks/Camouflage Mask",
+      "itemGuid": "dec22132b090fe9429931044957765f4"
+    },
+    {
+      "itemId": 353,
+      "itemName": "Roach Roof Lights",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Roof Lights",
+      "itemGuid": "dee7e56e8feccbd41b7d39ad68f2bac3"
+    },
+    {
+      "itemId": 354,
+      "itemName": "Coal",
+      "itemFullNameKey": "Items/Raw Materials/Coal",
+      "itemGuid": "df42510cfe8792c409df5e153bb53ed1"
+    },
+    {
+      "itemId": 355,
+      "itemName": "Gear Minor Health Regeneration Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Minor Health Regeneration Fragment",
+      "itemGuid": "dfe8ae279fb00584fa3b84b12076dcee"
+    },
+    {
+      "itemId": 356,
+      "itemName": "C4",
+      "itemFullNameKey": "Items/Weapons/C4",
+      "itemGuid": "e0ed5b104ae770a4ebe12a30576e6385"
+    },
+    {
+      "itemId": 357,
+      "itemName": "Mozzy Paralellocam Mask",
+      "itemFullNameKey": "Items/Paint Masks/Mozzy Paralellocam Mask",
+      "itemGuid": "e1c7d6500b986254186045b28bfa7eb5"
+    },
+    {
+      "itemId": 358,
+      "itemName": "Gear Minor Radiation Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Minor Radiation Protection Fragment",
+      "itemGuid": "e20ef515844b2a34da2b9cb55ce70549"
+    },
+    {
+      "itemId": 359,
+      "itemName": "Roach Chaser Bumper",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Chaser Bumper",
+      "itemGuid": "e2813b3407026ec45bc8c445949d6a92"
+    },
+    {
+      "itemId": 360,
+      "itemName": "VehicleRepairWrench",
+      "itemFullNameKey": "Items/Tools/Wrench (Vehicle Repair)",
+      "itemGuid": "e2acda9628b71df459eb4230a3b64aef"
+    },
+    {
+      "itemId": 361,
+      "itemName": "Fragment Case T2",
+      "itemFullNameKey": "Items/Fragments/Fragment Case +2",
+      "itemGuid": "e310ad77dbd8cc44ba570fc47a4665be"
+    },
+    {
+      "itemId": 362,
+      "itemName": "Hatless",
+      "itemFullNameKey": "Items/Gear/Head/Hatless",
+      "itemGuid": "e33d2130e3da9554793be0a89bda6991"
+    },
+    {
+      "itemId": 363,
+      "itemName": "Steak (Rancid)",
+      "itemFullNameKey": "Items/Consumables/Steak (Rancid)",
+      "itemGuid": "e37562cbcbd5102499e8d09775caf47d"
+    },
+    {
+      "itemId": 364,
+      "itemName": "AutomaticDrillGreen",
+      "itemFullNameKey": "Machines/Drill (Heat)",
+      "itemGuid": "e4254856a6806a84685c530975309093"
+    },
+    {
+      "itemId": 365,
+      "itemName": "Arctic Pelt",
+      "itemFullNameKey": "Items/Raw Materials/Pelt (Arctic)",
+      "itemGuid": "e53376f118c43c24dad4f5c2cc3b166d"
+    },
+    {
+      "itemId": 366,
+      "itemName": "Medusa Vine Seed",
+      "itemFullNameKey": "Items/Raw Materials/Seeds (Medusa)",
+      "itemGuid": "e545b810e55d8b541a1494ac2dd7bdb5"
+    },
+    {
+      "itemId": 367,
+      "itemName": "Bow Minor Redraw Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Bow Minor Redraw Speed Fragment",
+      "itemGuid": "e5996c2fd90fd4c418e30c29bc2bfef2"
+    },
+    {
+      "itemId": 368,
+      "itemName": "Storage Chest",
+      "itemFullNameKey": "Machines/Storage Chest",
+      "itemGuid": "e5d5dcf6b9788474ba8830a1cebdfc00"
+    },
+    {
+      "itemId": 369,
+      "itemName": "Chemsuit Pants",
+      "itemFullNameKey": "Items/Gear/Pants/Chemsuit Pants",
+      "itemGuid": "e65237eb274197443bbb3077d2e31de0"
+    },
+    {
+      "itemId": 370,
+      "itemName": "Gear Major Heat Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Major Heat Protection Fragment",
+      "itemGuid": "e6cbd5c857b448648a4c9c38cc127c77"
+    },
+    {
+      "itemId": 371,
+      "itemName": "Melee Mega AttackSpeed Fragment",
+      "itemFullNameKey": "Items/Fragments/Melee Mega AttackSpeed Fragment",
+      "itemGuid": "e87de12bf179a1a4f8c7c9a2281b5ece"
+    },
+    {
+      "itemId": 372,
+      "itemName": "Roach Gearbox",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Gearbox (Offroad)",
+      "itemGuid": "e9d6a2d881ddfc6498a6c4cd5066e7cc"
+    },
+    {
+      "itemId": 373,
+      "itemName": "ClanTotem",
+      "itemFullNameKey": "Machines/Clan Totem",
+      "itemGuid": "e9f6603de22da894b9a9c1634b72b275"
+    },
+    {
+      "itemId": 374,
+      "itemName": "Bow T2",
+      "itemFullNameKey": "Items/Weapons/Bow (Recurve)",
+      "itemGuid": "ea8ffc1dc6d5eeb4aa3b50746a8a9281"
+    },
+    {
+      "itemId": 375,
+      "itemName": "Singlet",
+      "itemFullNameKey": "Items/Gear/Chest/Singlet",
+      "itemGuid": "eaf3daeb4121871458229621a1767765"
+    },
+    {
+      "itemId": 376,
+      "itemName": "FR18 Rack Mag",
+      "itemFullNameKey": "Items/Weapon Attachments/Rack Magazine",
+      "itemGuid": "eb3df6ee01a4c58488266fbc18d87505"
+    },
+    {
+      "itemId": 377,
+      "itemName": "Kantye Glasses",
+      "itemFullNameKey": "Items/Masks/Kantye Glasses",
+      "itemGuid": "eb632e178ecc39549ab8ca38a056a2dd"
+    },
+    {
+      "itemId": 378,
+      "itemName": "Roach Rheum Hood",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Rheum Hood",
+      "itemGuid": "ebb802076841c2044a5ad2dffa05bbe1"
+    },
+    {
+      "itemId": 379,
+      "itemName": "Bow Major Redraw Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Bow Major Redraw Speed Fragment",
+      "itemGuid": "ec75134513022fc4197b3c0dcb29cad7"
+    },
+    {
+      "itemId": 380,
+      "itemName": "MediumJump",
+      "itemFullNameKey": "Medium Jump",
+      "itemGuid": "ecc9c004abd40754fa06b85b25c5abe1"
+    },
+    {
+      "itemId": 381,
+      "itemName": "AR RedDot Dappler",
+      "itemFullNameKey": "Items/Weapon Attachments/Dappler Red Dot",
+      "itemGuid": "ecd1769fec84d9441a4c5e96d328bfcf"
+    },
+    {
+      "itemId": 382,
+      "itemName": "Drifting Sand Hopper",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Wheel (Drifting Sand Hopper)",
+      "itemGuid": "ed21886baa4401446b6c8ae18cba121e"
+    },
+    {
+      "itemId": 383,
+      "itemName": "Backpackless",
+      "itemFullNameKey": "Items/Gear/Head/Backpackless",
+      "itemGuid": "ed50650329e4f1a4495d005465e10948"
+    },
+    {
+      "itemId": 384,
+      "itemName": "Gear Minor Cold Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Minor Cold Protection Fragment",
+      "itemGuid": "ee63b090d223acd498bded3c50341dc7"
+    },
+    {
+      "itemId": 385,
+      "itemName": "Gear Major Radiation Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Major Radiation Protection Fragment",
+      "itemGuid": "ef7cb09c2d7e3f049a0851df218b0f52"
+    },
+    {
+      "itemId": 386,
+      "itemName": "Bandage",
+      "itemFullNameKey": "Items/Tools/Bandage",
+      "itemGuid": "f082fd51b0496bd47b7f1bcaefb12f2a"
+    },
+    {
+      "itemId": 387,
+      "itemName": "Beretta RedDot Phase",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Red Dot Phase",
+      "itemGuid": "f109912a6326fbf4bacb6a990fce270f"
+    },
+    {
+      "itemId": 388,
+      "itemName": "Goat Engine",
+      "itemFullNameKey": "Items/Vehicle Attachments/Goat/Engine (Standard)",
+      "itemGuid": "f18928ae25e7a4d4bb38a1e1778d395b"
+    },
+    {
+      "itemId": 389,
+      "itemName": "Mozzy Engine",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Engine",
+      "itemGuid": "f1c57c9a08b553343a8f89de4ae340e0"
+    },
+    {
+      "itemId": 390,
+      "itemName": "Beretta Ironsight Ken",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Ironsight Ken",
+      "itemGuid": "f261bb9ce33a35548aea400c04d0f2a8"
+    },
+    {
+      "itemId": 391,
+      "itemName": "Shaped Mondinium",
+      "itemFullNameKey": "Items/Processed Materials/Shaped Mondinium",
+      "itemGuid": "f2c1a913eb9326442a5447ce11f31a8a"
+    },
+    {
+      "itemId": 392,
+      "itemName": "Roach Rheum Roof Scoop",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Rheum Roof Scoop",
+      "itemGuid": "f3fe73b2edc9d8f4b8862c138a7d935b"
+    },
+    {
+      "itemId": 393,
+      "itemName": "Mac10 Ironsight Discern",
+      "itemFullNameKey": "Items/Weapon Attachments/Discern Ironsight",
+      "itemGuid": "f46e8e305b6522c4fad4edbf4d7e8da7"
+    },
+    {
+      "itemId": 394,
+      "itemName": "Gloveless",
+      "itemFullNameKey": "Items/Gear/Head/Gloveless",
+      "itemGuid": "f4e805f990c866a4194964b03c7c4161"
+    },
+    {
+      "itemId": 395,
+      "itemName": "Goat Maze Mask",
+      "itemFullNameKey": "Items/Paint Masks/Goat Maze Mask",
+      "itemGuid": "f4ee4a13dda437d42a999760b0c37fa6"
+    },
+    {
+      "itemId": 396,
+      "itemName": "Roach Chaser Side Panel Left",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Chaser Panel (Left)",
+      "itemGuid": "f582890eab8044e4eb99c4c748bea71b"
+    },
+    {
+      "itemId": 397,
+      "itemName": "Goat Camo Mask",
+      "itemFullNameKey": "Items/Paint Masks/Goat Camo Mask",
+      "itemGuid": "f5f9574b27d446d48a5b8e814b1e2271"
+    },
+    {
+      "itemId": 398,
+      "itemName": "Sneakers",
+      "itemFullNameKey": "Items/Gear/Shoes/Sneakers",
+      "itemGuid": "f65c70c167ecd424198aea8a509f0fa9"
+    },
+    {
+      "itemId": 399,
+      "itemName": "Sombrero",
+      "itemFullNameKey": "Items/Gear/Head/Sombrero",
+      "itemGuid": "f70fe5b488928ea43a750f7ac3504cff"
+    },
+    {
+      "itemId": 400,
+      "itemName": "Titranium Axe",
+      "itemFullNameKey": "Items/Tools/Axe (Titranium)",
+      "itemGuid": "f83340ea2d899674cb8149eee4e55132"
+    },
+    {
+      "itemId": 401,
+      "itemName": "Roach Chaser Side Panel Right",
+      "itemFullNameKey": "Items/Vehicle Attachments/Roach/Chaser Panel (Right)",
+      "itemGuid": "f895f24a08ef80d41aeff7420e6f06a4"
+    },
+    {
+      "itemId": 402,
+      "itemName": "Mozzy Main Rotor",
+      "itemFullNameKey": "Items/Vehicle Attachments/Mozzy/Main Rotor",
+      "itemGuid": "fb385586303581d4e843f2d70145e7f9"
+    },
+    {
+      "itemId": 403,
+      "itemName": "Ushanka Hat",
+      "itemFullNameKey": "Items/Gear/Head/Ushanka",
+      "itemGuid": "fb4b30daad25794468a25c5f4eb9ee50"
+    },
+    {
+      "itemId": 404,
+      "itemName": "Gear Major Toxin Protection Fragment",
+      "itemFullNameKey": "Items/Fragments/Gear Major Toxin Protection Fragment",
+      "itemGuid": "fb88bf2a94e497845bc36861816fa5a8"
+    },
+    {
+      "itemId": 405,
+      "itemName": "Anonymizer",
+      "itemFullNameKey": "Items/Masks/Anonymizer",
+      "itemGuid": "fbb9274318fa6c942bc793e94eeeafca"
+    },
+    {
+      "itemId": 406,
+      "itemName": "StarterTownEventWinHardcase",
+      "itemFullNameKey": "Starter Town Event Win Hardcase",
+      "itemGuid": "fbc8e9e54d1764a4bbe58587c20d3c36"
+    },
+    {
+      "itemId": 407,
+      "itemName": "Gun Major Reload Speed Fragment",
+      "itemFullNameKey": "Items/Fragments/Gun Major Reload Speed Fragment",
+      "itemGuid": "fcc92ecaf2ae26c49b3125479d62fc7a"
+    },
+    {
+      "itemId": 408,
+      "itemName": "Storage Locker",
+      "itemFullNameKey": "Machines/Storage Locker",
+      "itemGuid": "fd6e342623283de42b028e548956dd3e"
+    },
+    {
+      "itemId": 409,
+      "itemName": "Thermal Pants",
+      "itemFullNameKey": "Items/Gear/Pants/Thermal Pants",
+      "itemGuid": "fdd64358946196845a031edc4997e01d"
+    },
+    {
+      "itemId": 410,
+      "itemName": "Space Gladiator Face Mask",
+      "itemFullNameKey": "Items/Masks/Space Gladiator",
+      "itemGuid": "fe03fa95b55c3be4d8d900be0c540a02"
+    },
+    {
+      "itemId": 411,
+      "itemName": "SlugWheel",
+      "itemFullNameKey": "Items/Vehicle Attachments/Slug/Wheel (Slug)",
+      "itemGuid": "fedffcb2e12639347b72074d3a81a530"
+    },
+    {
+      "itemId": 412,
+      "itemName": "Beretta Ironsight Glance",
+      "itemFullNameKey": "Items/Weapons/Beretta M9 Ironsight Glance",
+      "itemGuid": "ff47873383d14ac4e8c28861a5853a39"
+    }
+  ]
+}
